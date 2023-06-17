@@ -1,0 +1,28 @@
+[
+	{
+		"architecture": "x86_64",
+		"creation_time": "2020-11-25T05:08:26Z",
+		"description": "",
+		"disk_device_mappings": null,
+		"id": "centos_6_10_x64_20G_alibase_20201120.vhd",
+		"image_id": "centos_6_10_x64_20G_alibase_20201120.vhd",
+		"image_owner_alias": "system",
+		"image_version": "",
+		"is_copied": false,
+		"is_self_shared": "",
+		"is_subscribed": false,
+		"is_support_io_optimized": true,
+		"name": "centos_6_10_x64_20G_alibase_20201120.vhd",
+		"os_name": "CentOS  6.10 64位",
+		"os_name_en": "CentOS  6.10 64 bit",
+		"os_type": "linux",
+		"platform": "CentOS",
+		"product_code": "",
+		"progress": "100%",
+		"size": 20,
+		"state": "Available",
+		"status": "Available",
+		"tags": null,
+		"usage": "instance"
+	}
+]
